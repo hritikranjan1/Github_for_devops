@@ -1,7 +1,9 @@
+"""Testing module for hello function."""
+
+
 def hello():
-    """
-    This is a docstring
-    """
-    return "hello world master "
+    """Return a greeting message."""
+    return "hello world master"
+
 
 hello()
